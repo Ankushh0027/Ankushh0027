@@ -1,6 +1,5 @@
 <!-- ======================= FINAL BANNER ======================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1a2a6c,50:b21f1f,100:fdbb2d&text=Ankush%20%7C%20AIML%20Engineer&fontSize=50&fontAlignY=40&desc=Building%20Future%20with%20AI%20%7C%20ML%20%26%20Backend%20Engineer&descAlignY=65&animation=fadeIn&fontColor=ffffff" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1a2a6c,50:b21f1f,100:fdbb2d&text=Ankush%20%7C%20AIML%20Engineer&fontSize=50&fontAlignY=40&desc=Building%20Future%20with%20AI%20%7C%20Full%20Stack%20Developer&descAlignY=65&animation=fadeIn&fontColor=ffffff" />
 <!-- ======================= TYPING ======================= -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Building+the+Future+with+AI;AI+%26+ML+Developer+in+Progress;DSA+%7C+Full+Stack+%7C+AI%2FML;Turning+Ideas+into+Impactful+Projects" />
