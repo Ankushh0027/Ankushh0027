@@ -9,14 +9,14 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Ankush</h1>
-<h3 align="center">AI & ML Developer | Problem Solver | Tech Innovator</h3>
+<h3 align="center">AI & ML Engineer | Problem Solver | Tech Innovator</h3>
 
 ---
 
 ## 🧠 About Me
 
 - 🎓 B.Tech CSAIML Student  
-- 💻 Passionate about **AI, DSA, and Full Stack Development**  
+- 💻 Passionate about **AIML, DSA, and Full Stack Development**  
 - 🚀 Building real-world impactful projects  
 - 🎯 Focused on creating scalable intelligent systems  
 - ⚡ Discipline + Consistency = Growth  
