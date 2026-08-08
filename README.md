@@ -1,5 +1,5 @@
 <!-- ======================= FINAL BANNER ======================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1a2a6c,50:b21f1f,100:fdbb2d&text=Ankush%20|%20AI%20Developer&fontSize=50&fontAlignY=40&desc=Building%20Future%20with%20AI%20%7C%20Full%20Stack%20Developer&descAlignY=65&animation=fadeIn&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1a2a6c,50:b21f1f,100:fdbb2d&text=Ankush%20%7C%20AIML%20Engineer&fontSize=50&fontAlignY=40&desc=Building%20Future%20with%20AI%20%7C%20ML%20%26%20Backend%20Engineer&descAlignY=65&animation=fadeIn&fontColor=ffffff" />
 
 <!-- ======================= TYPING ======================= -->
 <p align="center">
